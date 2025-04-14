@@ -1,4 +1,6 @@
-![Banner](https://github.com/user-attachments/assets/73cd4306-10b2-47e4-998e-40d52611ca00)
+![Banner](https://github.com/user-attachments/assets/aa78df67-1e10-4c54-9890-010196a4740b)
+
+
 
 # Kowsalya P | ML Engineer | Data Analyst | AI Enthusiast
 
