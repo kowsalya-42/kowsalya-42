@@ -24,7 +24,6 @@ Welcome to my GitHub! I specialize in Artificial Intelligence, Machine Learning,
 - **Cloud Platforms:** AWS (I’ll make sure my cloud doesn’t rain!)
 - **Other Tools:** Docker, Streamlit (Tools to help me package my dreams into reality.)
 
-![Skills_Animation](https://github.com/user-attachments/assets/e5956966-974c-4f50-9fbb-6e81baf962f4)
 
 
 
